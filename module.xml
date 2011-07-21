@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <menulist>
+    <menuitem menuid="costtracker"     desc="Cost Tracker"           parent=""            module="no"  link="" order="6"></menuitem>
+    <menuitem menuid="phonebook"       desc="Phonebook" parent="costtracker"     module="yes"  link="" order="1"></menuitem>
+    <menuitem menuid="usagereports"         desc="Reports" parent="costtracker"     module="yes"  link="" order="3"></menuitem>
+    <menuitem menuid="rates"           desc="Rates" parent="costtracker"     module="yes"  link="" order="2"></menuitem>
+    <menuitem menuid="userpinmanagement"           desc="User Management" parent="costtracker"     module="yes"  link="" order="4"></menuitem>
+  </menulist>
+</module>
